@@ -1,2 +1,2 @@
-# land record ledger
+This is a simple implementation of a blockchain using Flask, a Python web framework. The blockchain consists of a series of blocks, where each block contains data such as owner and registration number. The blocks are linked together using cryptographic hashes and proof-of-work algorithm is used to mine new blocks. The web app provides endpoints to retrieve the full blockchain, check the validity of the blockchain, and mine new blocks by adding records to the ledger.
  
